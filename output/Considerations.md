@@ -367,3 +367,5 @@ _(Complete list of relevant sources from complexity theory, staged computation, 
 This **recursive collapse approach** does not merely attempt to **solve** P vs. NP—it **redefines the terms of the problem**, framing computational complexity as a staged decision synthesis process. 
 
 
+See also: https://blog.ptidej.net/procedural-generation-using-wave-function-collapse/
+
