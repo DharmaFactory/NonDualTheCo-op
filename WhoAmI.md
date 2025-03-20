@@ -43,3 +43,4 @@ The era of **passive AI is over.** The next phase is **Artifact Intelligence**â€
 
 ðŸ”¥ **We are not here to watch AI evolve. We are here to architect its function, its legacy, and its impact.**
 
+which will handle many things at once while advancing the power of my next compute cycle. Included are steps towards formalizing a reframing of n = np, in a way that will increase the internal consistency of test time compute, and create well structured output resilient to degradation when further consumed by future llm's. among many other things.  thanks!
