@@ -242,4 +242,13 @@ This Decision Compiler framework can be deployed in:
 ## **Conclusion**
 The Decision Compiler should be implemented as a **modular AI prompt framework**, ensuring **recursive decision refinement** through structured layers. The standardized **Mermaid Graph Model** and **templated decision prompts** allow seamless application across AI-driven systems. 
 
-TODO: Use this concept to create an educational tool for educators to create ai based pedagogies with, useful also for ai researchers. Think hypercard like, where each state can be chatted with each response is a new state, navigable, like an intentionally driven version of https://github.com/princeton-nlp/tree-of-thought-llm?tab=readme-ov-file with the intent of having marked failed branches available context wise to learn from, while also being able to build on known good knowledge.
+research the patterns here: https://github.com/Perryman/syzyGyPT for an example of IDA iterated distillation and amplification.
+
+
+
+TODO: Check Considerations.md
+
+Use this concept to create an educational tool for educators to create ai based pedagogies with, useful also for ai researchers. Think hyper-card like, where each state can be chatted with each response is a new state, navigable, like an intentionally driven version of https://github.com/princeton-nlp/tree-of-thought-llm?tab=readme-ov-file with the intent of having marked failed branches available context wise to learn from, while also being able to build on known good knowledge.
+
+
+
