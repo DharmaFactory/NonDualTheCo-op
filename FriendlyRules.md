@@ -1,7 +1,26 @@
-
 # **Summary of Community Rules**  
 **Mobile Home Community**  
-  
+**Neighborhood**
+**City**
+**County**
+**State**
+**Federal**
+**Diplomacy**
+
+**What caught your eye**
+**What it is an example of**
+**How does it scale**
+**When you reach the limit, what is the next concept?**
+**Diplomacy**
+
+The above is self referential. The below is an example of a mobile home park.
+
+> Can you describe the pattern you are seeing in a different way?
+> Can you make your own version of this document about a different topic?
+> Can you do it by hand?
+> What would the best prompt to understand this be?
+> What if you kept the answer to yourself?
+
 To keep our community safe, clean, and enjoyable for everyone, we have some important rules. These updates clarify how we handle home maintenance, outdoor storage, parking, pets, and more.  
 
 ### **🏡 Home & Yard Maintenance**  
