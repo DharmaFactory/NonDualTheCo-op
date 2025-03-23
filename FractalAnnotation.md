@@ -15,7 +15,7 @@ Recommendation
 ```
 
 ```product
-Eductation
+Education
 ```
 
 ```lens
